@@ -3,7 +3,7 @@
 # Profile Card
 
 <br>
-<img src= "./Screenshot.png">
+<img src= "./assets/Screenshot.png">
 
 </div><br>
 

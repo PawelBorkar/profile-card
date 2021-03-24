@@ -9,7 +9,7 @@
 body{
     height: 100vh;
     /* background: rgb(72, 68, 77); */
-    background: url(./landscape.jpg);
+    background: url(./assets/landscape.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
