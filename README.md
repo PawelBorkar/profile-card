@@ -1,6 +1,6 @@
 <div align="center">
 
-# Profile Card
+# Pawel's Social Links
 
 <br>
 <img src= "./assets/Screenshot.png">
